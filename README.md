@@ -10,6 +10,7 @@
 - React
 - Redux
 - @reduxjs/toolkit
+- Redux-thunk
 - font awesome
 
 
